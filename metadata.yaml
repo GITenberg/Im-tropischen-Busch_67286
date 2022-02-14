@@ -1,0 +1,35 @@
+_repo: Im-tropischen-Busch_67286
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Traven, B.
+    aliases:
+    - Croves, Hal
+    - Torsvan, Berick Traven
+    - Feige, Hermann Albert Otto Max
+    - Marut, Ret
+    - Wienecke, Albert Otto Max
+    birthdate: 1882
+    deathdate: 1969
+    gutenberg_agent_id: '53904'
+    url: http://www.gutenberg.org/2009/agents/53904
+    wikipedia:
+    - https://en.wikipedia.org/wiki/B._Traven
+    - https://de.wikipedia.org/wiki/B._Traven
+description: ''
+gutenberg_issued: '2022-01-31'
+identifiers:
+  gutenberg: '67286'
+language: de
+pgterms:marc905: 20211225005754traven
+pgterms:marc906: '1926'
+pgterms:marc907: de
+production_note: Jens Sadowski and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: Germany :Georg Westermann,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Im tropischen Busch
+url: http://www.gutenberg.org/ebooks/67286
